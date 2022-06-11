@@ -1,0 +1,11 @@
+C:\Users\ctaka\source\repos\MemoryGame4\MemoryGame4\bin\Debug\MemoryGame4.exe.config
+C:\Users\ctaka\source\repos\MemoryGame4\MemoryGame4\bin\Debug\MemoryGame4.exe
+C:\Users\ctaka\source\repos\MemoryGame4\MemoryGame4\bin\Debug\MemoryGame4.pdb
+C:\Users\ctaka\source\repos\MemoryGame4\MemoryGame4\obj\Debug\MemoryGame4.csproj.AssemblyReference.cache
+C:\Users\ctaka\source\repos\MemoryGame4\MemoryGame4\obj\Debug\MemoryGame4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ctaka\source\repos\MemoryGame4\MemoryGame4\obj\Debug\MemoryGame4.Form1.resources
+C:\Users\ctaka\source\repos\MemoryGame4\MemoryGame4\obj\Debug\MemoryGame4.Properties.Resources.resources
+C:\Users\ctaka\source\repos\MemoryGame4\MemoryGame4\obj\Debug\MemoryGame4.csproj.GenerateResource.cache
+C:\Users\ctaka\source\repos\MemoryGame4\MemoryGame4\obj\Debug\MemoryGame4.csproj.CoreCompileInputs.cache
+C:\Users\ctaka\source\repos\MemoryGame4\MemoryGame4\obj\Debug\MemoryGame4.exe
+C:\Users\ctaka\source\repos\MemoryGame4\MemoryGame4\obj\Debug\MemoryGame4.pdb
